@@ -11,8 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq
+|2,0,1647512353,,"wq"
 :wq!
-|2,0,1647511156,,"wq!"
+|2,0,1647512077,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +27,41 @@
 # Registers:
 
 # File marks:
-'0  1  4  ~/file1
-|4,48,1,4,1647511156,"~/file1"
+'0  1  0  ~/.gitconfig
+|4,48,1,0,1647512353,"~/.gitconfig"
+'1  1  22  ~/file3
+|4,49,1,22,1647512077,"~/file3"
+'2  1  4  ~/file1
+|4,50,1,4,1647511156,"~/file1"
 
 # Jumplist (newest first):
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1647512353,"~/.gitconfig"
+-'  1  22  ~/file3
+|4,39,1,22,1647512077,"~/file3"
+-'  1  22  ~/file3
+|4,39,1,22,1647512077,"~/file3"
+-'  1  4  ~/file1
+|4,39,1,4,1647511156,"~/file1"
+-'  1  4  ~/file1
+|4,39,1,4,1647511156,"~/file1"
+-'  1  4  ~/file1
+|4,39,1,4,1647511156,"~/file1"
 -'  1  4  ~/file1
 |4,39,1,4,1647511156,"~/file1"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitconfig
+	*	1647512334	0
+	"	1	0
+
+> ~/file3
+	*	1647512073	0
+	"	1	22
+	^	1	23
+	.	1	22
+	+	1	22
 
 > ~/file1
 	*	1647511144	0
