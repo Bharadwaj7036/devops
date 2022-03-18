@@ -83,3 +83,14 @@ git commit -m "hh" .
 git status
 git push
 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
+git status
+git log
+git rm -r .
+git rm -r 
+git rm -r .
+git rm -f
+git rm -r file1
+git rm -r file2
+git rm -r file3
+git rm -r file23
+git status
