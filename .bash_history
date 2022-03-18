@@ -77,3 +77,9 @@ git remote add origin https://github.com/Bharadwaj7036/devops.git
 ll
 git branch
 git push -u origin master
+git status
+git add .
+git commit -m "hh" .
+git status
+git push
+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
